@@ -1,13 +1,13 @@
-#host Link https://astounding-sherbet-af3d50.netlify.app/
+#host Link https://6616992716ff0f3550c59555--effulgent-torrone-80eb07.netlify.app/
 
 # Calculator
 
-This is a simple calculator built using React. It performs basic arithmetic calculations and supports additional operations like square root, exponentiation, and logarithm.
+This is a simple calculator built using React. It performs basic arithmetic calculations and supports additional operations like square root, exponential, and logarithm.
 
 ## Features
 
 - Addition, subtraction, multiplication, and division operations
-- Exponentiation: x^2, x^3
+- Exponential: x^2, x^3
 - Square root: √x
 - Logarithm: log(x)
 - Ability to input and display expressions
@@ -59,16 +59,4 @@ npm start
 
 - React: A JavaScript library for building user interfaces
 - mathjs: A comprehensive math library for JavaScript
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- This calculator was inspired by various online calculators and tutorials.
 
