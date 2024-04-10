@@ -1,4 +1,4 @@
-#host Link https://6616992716ff0f3550c59555--effulgent-torrone-80eb07.netlify.app/
+#host Link https://effulgent-torrone-80eb07.netlify.app
 
 # Calculator
 
