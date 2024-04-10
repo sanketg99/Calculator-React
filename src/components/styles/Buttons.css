@@ -75,7 +75,7 @@
     background-color: #4d5051;
     color: white;
     transition: background-color 0.3s ease;
-    border-radius: 50%;
+    /* border-radius: 50%; */
   }
 
   .btn:active {
