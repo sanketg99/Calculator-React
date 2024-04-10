@@ -22,7 +22,7 @@ To run the calculator on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/apni-coding/Calculator-Using-React
+git clone https://github.com/sanketg99/Calculator-React.git
 ```
 
 2. Navigate to the project directory:
